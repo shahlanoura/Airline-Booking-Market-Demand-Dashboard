@@ -1,0 +1,5 @@
+Python
+Flask
+Plotly
+Pandas
+Bootstrap
